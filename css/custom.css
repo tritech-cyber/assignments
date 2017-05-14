@@ -20,7 +20,7 @@ body{
     margin:0;    padding: 0;
     background:#fff;
         font-family: "Lucida Sans", sans-serif;
-	font-size: 18px;
+	font-size: 12px;
     color: #425c9f;
     }
 
@@ -57,10 +57,26 @@ a{
 	font-weight: bold;
 text-decoration: none;	
 }
+a.simple{
+display:inline-block;
+font-family:sans-serif;
+font-size: 12px;
+background-color:#425c9f;
+color:#fff;
+text-decoration: none;
+}
+a.simple:hover{
+display:inline-block;
+font-family:sans-serif;
+font-size: 12px;
+background-color:#425c9f;
+color:#ddd;
+text-decoration: none;
+}
 a.link{
 display:inline-block;
 font-family:sans-serif;
-font-size: 24px;
+font-size: 12px;
 padding: 3px 3px 3px 3px;
 background-color:#fff;
 color:#777;

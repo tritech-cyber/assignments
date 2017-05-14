@@ -1,0 +1,37 @@
+ Wireshark-FilterList
+0.         !(arp)
+[masks out  arp requests]
+1.       ip.addr == 10.183.0.1
+[Sets a filter for any packet with 10.0.0.1, as either the source or dest]
+
+2.       ip.addr==10.183.0.1  && ip.addr==10.183.0.2
+[sets a conversation filter between the two defined IP addresses]
+
+3.       http or dns
+[sets a filter to display all http and dns]
+
+4.       tcp.port==4000
+[sets a filter for any TCP packet with 4000 as a source or dest port]
+
+5.       tcp.flags.reset==1
+[displays all TCP resets]
+
+6.       http.request
+[displays all HTTP GET requests]
+
+7.       tcp contains traffic
+[displays all TCP packets that contain the word ‘traffic’.
+Excellent when searching on a specific string or user ID]
+
+8.       !(arp or icmp or dns)
+[masks out arp, icmp, dns, or whatever other protocols may be background noise.
+Allowing you to focus on the traffic of interest]
+
+9.       udp contains 33:27:58
+[sets a filter for the HEX values of 0x33 0x27 0x58 at any offset]
+
+10.   tcp.analysis.retransmission
+[displays all retransmissions in the trace.
+Helps when tracking down slow application performance and packet loss]
+
+http://null-byte.wonderhowto.com/inspiration/8-wireshark-filters-every-wiretapper-uses-spy-web-conversations-and-surfing-habits-0134508/
