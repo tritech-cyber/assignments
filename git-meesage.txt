@@ -1,0 +1,11 @@
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 13136 insertions(+), 12 deletions(-)
+ create mode 100644 documents/wire-shark-soap-lake-170513.txt
+ create mode 100644 documents/wireshark-filters.txt
+
