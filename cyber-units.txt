@@ -22,7 +22,7 @@ CBC (Columbia Basin College)
 
 * Computer Networking 
 
-*Github
+*Github.com
 - Repositories
 - username.github.io
 
