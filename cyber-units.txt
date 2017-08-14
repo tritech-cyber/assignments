@@ -16,6 +16,16 @@ Tri-Tech Cyber Security Units – Units do not follow this order.
 - Tri-Tech Cyber Security will receive 5 CBC HTML  credits for Year 1 and 5 HTML with CSS  credit for Year 2
 CBC (Columbia Basin College)
 
+* Computer Hardware
+
+* Networking Hardware
+
+* Computer Networking 
+
+*Github
+- Repositories
+- username.github.io
+
 * System Rescue CD (USB)
 http://www.system-rescue-cd.org/
 
@@ -59,9 +69,4 @@ http://www.system-rescue-cd.org/
 - Windows 10 in Virtual BOX
 - https://github.com/diogo-fernan/ir-rescue
 
-* Computer Hardware
-
-* Networking Hardware
-
-* Computer Networking 
 
