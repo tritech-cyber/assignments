@@ -1,0 +1,48 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.assignment {
+  background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #0ff;
+		border-width: 5px;
+		padding: 5px;
+  }
+
+.english{
+		background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #f00;
+		border-width: 5px;
+		padding: 5px;
+}
+
+.cs{
+		background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #000;
+		border-width: 5px;
+		padding: 5px;
+}
+
+.employability{
+	background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #00f;
+		border-width: 5px;
+		padding: 5px;
+	
+}
+
+.math{
+	background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #0f0;
+		border-width: 5px;
+		padding: 5px;
+	
+}
+
+
