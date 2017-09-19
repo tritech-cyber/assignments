@@ -57,23 +57,7 @@ a{
 	font-weight: bold;
 text-decoration: none;	
 }
-.link{
-display:inline-block;
-font-family:sans-serif;
-font-size: 12px;
-background-color:#425c9f;
-color:#fff;
-text-decoration: none;
-}
 
-.link:hover{
-display:inline-block;
-font-family:sans-serif;
-font-size: 12px;
-background-color:#425c9f;
-color:#ddd;
-text-decoration: none;
-}
 a.link{
 display:inline-block;
 font-family:sans-serif;
