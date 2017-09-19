@@ -57,7 +57,7 @@ a{
 	font-weight: bold;
 text-decoration: none;	
 }
-a.simple{
+.link{
 display:inline-block;
 font-family:sans-serif;
 font-size: 12px;
@@ -65,7 +65,8 @@ background-color:#425c9f;
 color:#fff;
 text-decoration: none;
 }
-a.simple:hover{
+
+.link:hover{
 display:inline-block;
 font-family:sans-serif;
 font-size: 12px;
