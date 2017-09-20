@@ -49,4 +49,9 @@ color: #000;
 }
 
 .html{
+background-color: #fff;
+		border-style: solid;
+		border-color: #8eb1e1 #FF1493;
+		border-width: 5px;
+		padding: 5px;
 }
