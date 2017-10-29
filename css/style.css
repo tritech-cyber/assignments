@@ -8,7 +8,7 @@
 }
 [class*="col-"] {
     float: left;
-    padding: 10px;
+    padding: 3px;
 }
 
 html, body, #header {
@@ -94,11 +94,7 @@ font-family:sans-serif;
     width: 100%;
 }
 
-425c9f
 
-6981c7
-
-8eb1e1
 @media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-m-1 {width: 8.33%;}
@@ -129,3 +125,9 @@ font-family:sans-serif;
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 }
+
+425c9f
+
+6981c7
+
+8eb1e1

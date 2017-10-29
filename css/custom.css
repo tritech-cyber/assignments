@@ -11,7 +11,7 @@ color: #000;
 		border-style: solid;
 		border-color: #8eb1e1 #0ff;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
   }
 
 .english{
@@ -19,7 +19,7 @@ color: #000;
 		border-style: solid;
 		border-color: #8eb1e1 #f00;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
 }
 
 .cs{
@@ -27,7 +27,7 @@ color: #000;
 		border-style: solid;
 		border-color: #8eb1e1 #000;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
 }
 
 .employability{
@@ -35,7 +35,7 @@ color: #000;
 		border-style: solid;
 		border-color: #8eb1e1 #00f;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
 	
 }
 
@@ -44,7 +44,7 @@ color: #000;
 		border-style: solid;
 		border-color: #8eb1e1 #0f0;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
 	
 }
 
@@ -53,5 +53,5 @@ background-color: #fff;
 		border-style: solid;
 		border-color: #8eb1e1 #FF1493;
 		border-width: 5px;
-		padding: 5px;
+		padding: 1px;
 }
