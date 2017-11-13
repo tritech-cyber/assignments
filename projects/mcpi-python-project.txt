@@ -1,8 +1,26 @@
 Minecraft Pi Python Project
-- Each person in the 
+Points - Description
+20 - Each person in the group will create an individaul Minecraft-Pi
+		Python Design (Object)
+40 - Code must have 3 different functions and a def main(): 
+	and be at least 50 lines of code.
+40 - Code must contain a for and while loop
+20 - Object must be dynamically placed in reference to (x,y,z)
+20 - The Object must look like something recongnizable or have a 
+	defined function.
+20 - Object must be created in a Minecraft-Pi world remotely using 
+		an ip (Example : 10.183.13.13)
+20 - Completed on or before the deadline.
+20 - Individaul char.png will be change using the ~/Desktop/mcpi/
+		Minecraft-Pi modification by CWC.
+10 - All code posted on github.com in a python/mincraft-pi-python/ directory
+20 - Take screenshots using:  ( raspi2png  needs to be installed)
+	./raspi2png -p myscreenshot.png 
+	./raspi2png -p mydelayedshot.png -d 5 (delay of 5 seconds)
+	(If the above does not work.  We will take photos)
 
-
-
+230 total points.	
+# Base project format.
 from mcpi.minecraft import Minecraft
 from mcpi import block
 from time import sleep
@@ -43,6 +61,7 @@ def main():
 	mc.player.setPos(0,70,0)   
 	
 main()
+
 # multiple line comment
 """
 AIR                   0
