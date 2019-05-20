@@ -1,0 +1,76 @@
+<html>
+<head><title>CS Assignemts Year 1 </title>
+<style>
+html{
+color:#000;
+font-size: 14px;
+font-family: system-ui, sans-serif;
+}
+
+pre{
+position: absolute;
+left: 30px;
+}
+
+.blk{
+	background-color: #000;
+	color: #fff;
+}
+
+</style>
+
+</head>
+
+<pre>
+<a href = "independent-project.html">independent-project.html</a>
+<hr />
+<div class="blk">CYBER SECURITY - YEAR 1+2 ASSIGNMENTS</div>
+C++ ASSIGNEMTNS (PUSH TO github)
+_____ C++_CODE(PART 1) pts: 30
+_____ C++_CODE(PART 2) pts: 70
+          helloworld.cpp
+          ifelse_2d.cpp
+          switch_2d.cpp
+          2d_8x8_initials.cpp (extra)
+          cbe.cpp (coefficient base exponent)
+          ahk_quad.cpp (just compile and run)
+          plotDB.cpp (just compile and run)
+          python character to hexadeciaml (save in c code repo)
+_____ C++_openGL_custom_equation pts: 30
+_____ C++_CODE_POINTERS (3 PROGRAMS)  pts: 30
+_____ xxd hellworld.cpp > hellofile.txt; xxd helloword.o >> hellofile.txt
+
+<div class="blk">BASH</div>
+_____ crontab -e assignements repo to ~/http/
+			from https:/github.com/tritech-cyber/assignments.git
+
+<div class="blk">COMPUTER SCIENCE</div>
+_____ 8x8_NeoPixel_Function pts: 30
+_____ REFLECTION-PAPER-2019 pts: 100
+_____ FOLD_PAPER_LAB pts: 20
+_____ NET-BID-GROUP pts: 100
+_____ SQL+CODECADEMY pts: 100
+_____ ET-NETWORK-BROADCAST-HOSTS pts: 10
+_____ SIN_CURVE_LAB pts: 30
+
+_____ VLAN-PROJECT( PACKET TRACER)pts: 50
+_____ OSI-TEST pts: 31x 3
+_____ ETHICS,GOOGLE,FACEBOOK(CREEPY LINE) pts: 4x 10
+
+<div class="blk">ENGLISH</div>
+_____ CAREER RESEARCH (100 POINTS)
+_____ EACH PERSON COMMENTS ON "SUCCESS IN THE NEW ECONOMY" 1:2.7 RATIO (20 PTS)
+_____ EACH PERSON CONTRIBUTES (0 TO 20 PTS)
+_____ COVER SHEET IS REQUIRED
+_____ ONE PAGE DOUBLE SPACED MINIMUM.
+_____ REFERENCES ARE REQUIRED  ( EACH PERSON CREATED A REFERENCE)
+
+
+<div class="blk">UNIFORM, MEDIA, CELL PHONE AND PROFESSIONALISM</div>
+_____ UMCP_APRIL pts: 85
+_____ UMCP_FEB+JAN pts: 175
+_____ UMCP_MARCH pts: 105
+
+
+</pre>
+</html>
