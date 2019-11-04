@@ -1,0 +1,32 @@
+<html>
+<head><title>CS Assignemts Year 1 </title>
+<style>
+html{
+color:#000;
+font-size: 14px;
+font-family: system-ui, sans-serif;
+}
+
+pre{
+position: absolute;left: 30px;
+}
+
+.blk{	background-color: #000;color: #fff;
+}
+
+a{
+background-color: #00f;color: #fff;
+}
+
+</style>
+
+</head>
+<body>
+<pre>
+<div class = "blk">
+
+<?div>
+
+</pre>
+</body>
+</html>
