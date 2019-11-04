@@ -14,7 +14,7 @@ Options +Indexes
 
   HeaderName "http://10.183.1.26/assignments/adl/header.html"
   ReadmeName "http://10.183.1.26/assignments/adl/footer.html"
-  IndexStyleSheet "http://10.183.1.26/assignments/adl/grid.css"
+  IndexStyleSheet "http://10.183.1.26/assignments/adl/table.css"
 
 
   # Registering icons
