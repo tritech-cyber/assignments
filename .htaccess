@@ -12,55 +12,55 @@ Options +Indexes
   # Some meta tags to add to the head tag
   IndexHeadInsert "<meta name='viewport' content='width=device-width, initial-scale=1'><meta http-equiv='X-UA-Compatible' content='IE=edge'>"
 
-  HeaderName "http://10.183.1.26/assignments/adl/header.html"
-  ReadmeName "http://10.183.1.26/assignments/adl/footer.html"
-  IndexStyleSheet "http://10.183.1.26/assignments/adl/grid.css"
+  HeaderName "adl/header.html"
+  ReadmeName "adl/footer.html"
+  IndexStyleSheet "adl/grid.css"
 
 
   # Registering icons
   # Default icon
-  DefaultIcon "http://10.183.1.26/assignments/adl/icons/unknown.svg"
+  DefaultIcon "adl/icons/unknown.svg"
 
   # Some generic icons
-  AddIcon "http://10.183.1.26/assignments/adl/icons/blank.svg" ^^BLANKICON^^
-  AddIcon "http://10.183.1.26/assignments/adl/icons/folder.svg" ^^DIRECTORY^^
-  AddIcon "http://10.183.1.26/assignments/adl/icons/folder-home.svg" ..
+  AddIcon "adl/icons/blank.svg" ^^BLANKICON^^
+  AddIcon "adl/icons/folder.svg" ^^DIRECTORY^^
+  AddIcon "adl/icons/folder-home.svg" ..
 
   # Extension specific icons
-  AddIcon "http://10.183.1.26/assignments/adl/icons/archive.svg" .zip .7z .bz2 .cab .gz .tar .rar
-  AddIcon "http://10.183.1.26/assignments/adl/icons/audio.svg" .aac .aif .aifc .aiff .ape .au .flac .iff .m4a .mid .mp3 .mpa .ra .wav .wma .f4a .f4b .oga .ogg .xm .it .s3m .mod
-  AddIcon "http://10.183.1.26/assignments/adl/icons/bin.svg" .bin .hex
-  AddIcon "http://10.183.1.26/assignments/adl/icons/code.svg" .xml
-  AddIcon "http://10.183.1.26/assignments/adl/icons/doc.svg" .doc .docx .docm .dot .dotx .dotm .log .msg .odt .pages .rtf .tex .wpd .wps
-  AddIcon "http://10.183.1.26/assignments/adl/icons/img.svg" .bmp .png .tiff .tif .gif .jpg .jpeg .jpe .psd .ai .ico .webp
-  AddIcon "http://10.183.1.26/assignments/adl/icons/spreadsheet.svg" .xlsx .xlsm .xltx .xltm .xlam .xlr .xls .csv
-  AddIcon "http://10.183.1.26/assignments/adl/icons/presentation.svg" .ppt .pptx .pot .potx .pptm .potm .xps
-  AddIcon "http://10.183.1.26/assignments/adl/icons/c++.svg" .cpp
-  AddIcon "http://10.183.1.26/assignments/adl/icons/c.svg" .c
-  AddIcon "http://10.183.1.26/assignments/adl/icons/css3.svg" .css .sass .scss .less
-  AddIcon "http://10.183.1.26/assignments/adl/icons/font.svg" .ttf .TTF .woff .WOFF .woff2 .WOFF2 .otf .OTF
-  AddIcon "http://10.183.1.26/assignments/adl/icons/h.svg" .h
-  AddIcon "http://10.183.1.26/assignments/adl/icons/html5.svg" .html .xhtml .shtml .htm .URL .url
-  AddIcon "http://10.183.1.26/assignments/adl/icons/info.svg" .nfo .info
-  AddIcon "http://10.183.1.26/assignments/adl/icons/iso.svg" .iso .img
-  AddIcon "http://10.183.1.26/assignments/adl/icons/java.svg" .jar .java
-  AddIcon "http://10.183.1.26/assignments/adl/icons/js.svg" .js .json
-  AddIcon "http://10.183.1.26/assignments/adl/icons/markdown.svg" .md
-  AddIcon "http://10.183.1.26/assignments/adl/icons/package.svg" .pkg .dmg .rpm .deb
-  AddIcon "http://10.183.1.26/assignments/adl/icons/pdf.svg" .pdf
-  AddIcon "http://10.183.1.26/assignments/adl/icons/php.svg" .php .phtml
-  AddIcon "http://10.183.1.26/assignments/adl/icons/py.svg" .py
-  AddIcon "http://10.183.1.26/assignments/adl/icons/rb.svg" .rb
-  AddIcon "http://10.183.1.26/assignments/adl/icons/script.svg" .bat .BAT .cmd .sh .ps .exe .EXE .msi .MSI
-  AddIcon "http://10.183.1.26/assignments/adl/icons/sql.svg" .sql
-  AddIcon "http://10.183.1.26/assignments/adl/icons/text.svg" .txt .cnf .conf .map .yaml
-  AddIcon "http://10.183.1.26/assignments/adl/icons/vector.svg" .svg .svgz
-  AddIcon "http://10.183.1.26/assignments/adl/icons/video.svg" .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv .webm
+  AddIcon "adl/icons/archive.svg" .zip .7z .bz2 .cab .gz .tar .rar
+  AddIcon "adl/icons/audio.svg" .aac .aif .aifc .aiff .ape .au .flac .iff .m4a .mid .mp3 .mpa .ra .wav .wma .f4a .f4b .oga .ogg .xm .it .s3m .mod
+  AddIcon "adl/icons/bin.svg" .bin .hex
+  AddIcon "adl/icons/code.svg" .xml
+  AddIcon "adl/icons/doc.svg" .doc .docx .docm .dot .dotx .dotm .log .msg .odt .pages .rtf .tex .wpd .wps
+  AddIcon "adl/icons/img.svg" .bmp .png .tiff .tif .gif .jpg .jpeg .jpe .psd .ai .ico .webp
+  AddIcon "adl/icons/spreadsheet.svg" .xlsx .xlsm .xltx .xltm .xlam .xlr .xls .csv
+  AddIcon "adl/icons/presentation.svg" .ppt .pptx .pot .potx .pptm .potm .xps
+  AddIcon "adl/icons/c++.svg" .cpp
+  AddIcon "adl/icons/c.svg" .c
+  AddIcon "adl/icons/css3.svg" .css .sass .scss .less
+  AddIcon "adl/icons/font.svg" .ttf .TTF .woff .WOFF .woff2 .WOFF2 .otf .OTF
+  AddIcon "adl/icons/h.svg" .h
+  AddIcon "adl/icons/html5.svg" .html .xhtml .shtml .htm .URL .url
+  AddIcon "adl/icons/info.svg" .nfo .info
+  AddIcon "adl/icons/iso.svg" .iso .img
+  AddIcon "adl/icons/java.svg" .jar .java
+  AddIcon "adl/icons/js.svg" .js .json
+  AddIcon "adl/icons/markdown.svg" .md
+  AddIcon "adl/icons/package.svg" .pkg .dmg .rpm .deb
+  AddIcon "adl/icons/pdf.svg" .pdf
+  AddIcon "adl/icons/php.svg" .php .phtml
+  AddIcon "adl/icons/py.svg" .py
+  AddIcon "adl/icons/rb.svg" .rb
+  AddIcon "adl/icons/script.svg" .bat .BAT .cmd .sh .ps .exe .EXE .msi .MSI
+  AddIcon "adl/icons/sql.svg" .sql
+  AddIcon "adl/icons/text.svg" .txt .cnf .conf .map .yaml
+  AddIcon "adl/icons/vector.svg" .svg .svgz
+  AddIcon "adl/icons/video.svg" .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv .webm
 
   # Icons based on their type
-  AddIconByType (TXT,http://10.183.1.26/assignments/adl/icons/text.svg) text/*
-  AddIconByType (IMG,http://10.183.1.26/assignments/adl/icons/img.svg) image/*
-  AddIconByType (SND,http://10.183.1.26/assignments/adl/icons/audio.svg) audio/*
-  AddIconByType (VID,http://10.183.1.26/assignments/adl/icons/video.svg) video/*
+  AddIconByType (TXT,adl/icons/text.svg) text/*
+  AddIconByType (IMG,adl/icons/img.svg) image/*
+  AddIconByType (SND,adl/icons/audio.svg) audio/*
+  AddIconByType (VID,adl/icons/video.svg) video/*
 
 </IfModule>
