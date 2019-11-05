@@ -3,7 +3,7 @@ Options +Indexes
 <IfModule mod_autoindex.c>
 
   # Ignore listing of the listing directory
-  IndexIgnore "adl"
+  IndexIgnore "adl" "img"
 
   # Indexing options
   IndexOptions +AddAltClass +Charset=UTF-8 +FancyIndexing +FoldersFirst +HTMLTable
@@ -14,7 +14,7 @@ Options +Indexes
 
   HeaderName "adl/header.html"
   ReadmeName "adl/footer.html"
-  IndexStyleSheet "adl/grid.css"
+  IndexStyleSheet "adl/table.css"
 
 
   # Registering icons

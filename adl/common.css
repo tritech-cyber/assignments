@@ -1,11 +1,10 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
-
 html,
 body {
   margin: 0;
-  color: #212121;
+  color: #505050;
   font-size: 16px;
   font-family: system-ui, sans-serif;
   line-height: 1.5;
@@ -18,24 +17,25 @@ body {
 }
 
 a {
-  color: #6200ea;
+  color: #5050B3;
   display: inline-block;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
+  border-bottom: 2px solid transparent;
 }
 
 a:hover {
-  border-bottom: 1px solid currentColor;
+  border-bottom: 2px solid currentColor;
 }
 
 table {
   text-align: left;
+    font-size: 14px;
   white-space: nowrap;
   border-collapse: collapse;
 }
 
 table tr:hover {
-  background-color: #eee;
+  background-color: #FFEDBF;
 }
 
 table tr .indexcolicon a {
