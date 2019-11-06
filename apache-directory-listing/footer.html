@@ -1,0 +1,60 @@
+  </main>
+
+  <footer>
+    <!--  Add any other listing related copyright content here-->
+<a href="https://github.com/tritech-cyber"><em>github.com/tritech-cyber</a>
+  <div style="background-color:#eb2331; color:white;padding:1px;">#eb2331; Tri-Tech RED</div>
+  <div style="background-color:#B35050; color:white;padding:1px;">#B35050;</div>
+<div style="background-color:#5050b3; color:white;padding:1px;">#5050B3</div>
+<div style="background-color:#b3b350; color:white;padding:1px;">#B3B350;</div>
+<div style="background-color:#50b3b3; color:white;padding:1px;">#50b3b3;</div>
+<div style="background-color:#b350b3; color:white;padding:1px;">#b350b3;</div>
+<div style="background-color:#DC7F32; color:white;padding:1px;">#DC7F32;</div>
+<div style="background-color:#32DC7F; color:white;padding:1px;">#32DC7F;</div>
+<div style="background-color:#7F32DC; color:white;padding:1px;">#7F32DC;</div>
+<div style="background-color:#DC327F; color:white;padding:1px;">#DC327F;</div>
+<div style="background-color:#327FDC; color:white;padding:1px;">#327FDC;</div>
+<div style="background-color:#7F32DC; color:white;padding:1px;">#7F32DC;</div>
+<div style="background-color:#505050; color:white;padding:1px;">#505050;</div>
+<div style="background-color:#B3B3B3; color:black;padding:1px;">#B3B3B3;</div>
+<div style="background-color:#FDF6E3; color:black;padding:1px;">#FDF6E3;</div>
+<div style="background-color:#FFEDBF; color:black;padding:1px;">#FFEDBF;</div>
+<div style="background-color:#000000; color:white;padding:1px;">#000000;</div>
+  </footer>
+
+  <script>
+    function joinUntil(array, index, separator) {
+      var result = [];
+
+      for (var i = 0; i <= index; i++) {
+        result.push(array[i]);
+      }
+
+      return result.join(separator);
+    }
+
+    // Make all the icon links unfocusable with tab
+    var iconLinks = document.querySelectorAll('.indexcolicon a');
+    Array.prototype.forEach.call(iconLinks, function(link) {
+      link.setAttribute('tabindex', '-1');
+    });
+
+    var path = document.querySelector('.js-path');
+    var pathParts = location.pathname.split('/');
+
+    // Removing empty strings
+    for (var i = 0; i < pathParts.length;) {
+      if (pathParts[i]) {
+        i++;
+      } else {
+        pathParts.splice(i, 1);
+      }
+    }
+
+    var pathContents = ['<a href="/">/</a>'];
+    Array.prototype.forEach.call(pathParts, function(part, index) {
+      pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+    });
+
+    path.innerHTML = pathContents.join('&rsaquo;');
+  </script>
