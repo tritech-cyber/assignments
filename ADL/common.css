@@ -5,6 +5,7 @@ html,
 body {
   margin: 0;
   color: #7F32DC;
+  background-color: #FFEDBF;
   font-size: 16px;
   font-family: system-ui, sans-serif;
 }
@@ -22,9 +23,10 @@ a:hover {
 
 table {
   text-align: left;
-    font-size: 14px;
+    font-size: 12px;
   white-space: nowrap;
   border-collapse: collapse;
+  background-color: #FDF6E3;
 }
 
 table tr:hover {
