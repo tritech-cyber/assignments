@@ -3,7 +3,7 @@ Options +Indexes
 <IfModule mod_autoindex.c>
 
   # Ignore listing of the listing directory
-  IndexIgnore "{LISTING_DIRECTORY}"
+  IndexIgnore "ADL"
 
   # Indexing options
   IndexOptions +AddAltClass +Charset=UTF-8 +FancyIndexing +FoldersFirst +HTMLTable
@@ -12,9 +12,9 @@ Options +Indexes
   # Some meta tags to add to the head tag
   IndexHeadInsert "<meta name='viewport' content='width=device-width, initial-scale=1'><meta http-equiv='X-UA-Compatible' content='IE=edge'>"
 
-  HeaderName "{LISTING_DIRECTORY}/header.html"
-  ReadmeName "{LISTING_DIRECTORY}/footer.html"
-  IndexStyleSheet "{LISTING_DIRECTORY}/{LISTING_STYLE}.css"
+  HeaderName "ADL/header.html"
+  ReadmeName "ADL/footer.html"
+  IndexStyleSheet "ADL/tabley.css"
 
 
   # Registering icons
