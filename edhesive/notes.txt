@@ -1,0 +1,11 @@
+1. Try the circle
+
+canvas.draw_circle((100, 130), 50, 5, "Green")
+
+To make the circle wider you would change the: 50
+
+2. canvas.draw_circle((100, 100), 50, 50, "Gray", "Black")
+
+3 . x y radius  Line width  color
+
+4. String
