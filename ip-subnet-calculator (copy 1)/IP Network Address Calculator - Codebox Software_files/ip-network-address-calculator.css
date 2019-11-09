@@ -1,0 +1,91 @@
+#mainTable {
+  margin-top: 1em; }
+
+.inputBox {
+  width: 2em;
+  border: 1px solid gray;
+  color: gray; }
+
+.inputBoxErr {
+  width: 2em;
+  border: 1px solid red;
+  color: red; }
+
+.dot {
+  font-weight: bold; }
+
+#goButton {
+  background-color: gray;
+  color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+  border: 1px solid gray;
+  cursor: pointer; }
+
+#statusBox, .infoText {
+  font-family: sans-serif;
+  font-size: 0.8em; }
+
+.statusOk {
+  color: green; }
+
+.statuserr {
+  color: red; }
+
+#output {
+  margin-top: 1em; }
+
+#netmask {
+  margin-top: 0.2em;
+  margin-left: 1em;
+  float: left;
+  width: 30px;
+  font-size: 0.9em;
+  font-family: sans-serif; }
+
+#slider {
+  float: left;
+  top: 0px;
+  left: 0px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  width: 200px;
+  height: 25px;
+  position: relative; }
+
+#sliderCentre {
+  font-size: 0;
+  position: absolute;
+  border: 1px solid gray;
+  top: 11px;
+  left: 0px;
+  height: 0px;
+  padding: 0;
+  width: 199px; }
+
+#marker {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 1px solid black;
+  width: 10px;
+  height: 21px;
+  margin: 1px;
+  background-color: white; }
+
+.scale {
+  position: absolute;
+  border-right: 1px solid gray;
+  width: 50px;
+  height: 14px;
+  top: 5px; }
+
+#scale1 {
+  left: 0px; }
+
+#scale2 {
+  left: 50px; }
+
+#scale3 {
+  left: 100px; }
+
