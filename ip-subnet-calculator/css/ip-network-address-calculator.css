@@ -33,7 +33,10 @@
   color: red; }
 
 #output {
-  margin-top: 1em; }
+  margin-top: 1em;
+  color: #5050B3;
+
+}
 
 #netmask {
   margin-top: 0.2em;
@@ -88,4 +91,3 @@
 
 #scale3 {
   left: 100px; }
-

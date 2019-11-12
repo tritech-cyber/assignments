@@ -34,6 +34,7 @@ body {
   border-color: #aaa;
   border-style: solid;
   background-color: white;
+  font-family: 'Open Sans', sans-serif; 
   box-shadow: 0 0 10px 10px #ccc;
   display: flex;
   flex-direction: column; }
@@ -95,8 +96,8 @@ article {
   text-align: center; }
 
 pre {
-  background-color: #F8F8F8;
-  border: 1px solid #CCC;
+  background-color: #ffff00;
+  border: 1px solid #000;
   line-height: 19px;
   overflow: auto;
   padding: 6px 10px;
@@ -104,7 +105,7 @@ pre {
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
   border-radius: 3px;
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
+font-family: 'Open Sans', sans-serif; 
   font-size: 13px; }
 
 code {
