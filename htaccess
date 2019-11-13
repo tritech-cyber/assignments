@@ -7,7 +7,7 @@ Options +Indexes
 IndexOptions IgnoreCase FancyIndexing FoldersFirst SuppressHTMLPreamble
 
 # IGNORE THESE FILES
-IndexIgnore .htaccess .ftpquota favicon.ico _001.gif _002.gif _003.gif _00a.html _00b.html _000.css cgi-bin README.ms
+IndexIgnore .htaccess .ftpquota favicon.ico _001.gif _002.gif _003.gif _00a.html _00b.html _000.css cgi-bin README.md
 
 # SET DISPLAY ORDER
 IndexOrderDefault Descending Name
