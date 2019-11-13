@@ -22,6 +22,7 @@ ReadmeName _00b.html
 AddDescription "<span class='description'>Private Directory</span>" transfer
 
 # SPECIFY CUSTOM ICONS
+AddIcon img/_md.gif .md
 AddIcon img/_001.gif .txt .pdf .zip .jpg .jpeg .jpe .JPG .png .gif .mp3 .rar .mpg .indd .psd .tar .tif .html .htm .css .doc .log .js .ico, .eml
 AddIcon img/_002.gif ^^DIRECTORY^^
 AddIcon img/_003.gif *.
