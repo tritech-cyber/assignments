@@ -1,0 +1,28 @@
+Headless Centos8 Checklist
+
+___ Install Centos 8 on VirtualBox (headless no gui)
+
+___ Starting ip: __________ __________ __________ __________ 
+
+___ Assigned static ip : 10.183.  __________ __________ 
+
+___ Enable fastmirror (fastestmirror=true) as a sudo -i user
+	Type: sudo -i
+	Type: echo "fastestmirror=true" >> /etc/dnf/dnf.conf
+	Check it: sudo mopre /etc/dnf/dnf.cong
+
+___ Update system (sudo dnf update)
+___ Install git (sudo dnf install git)
+___ git redhat repo: cd ~/; git clone https://github.com/tritech-cyber/redhat.git 
+___ Read https://github.com/tritech-cyber/redhat.git 
+___ Set hostname and static ip
+___ Install apache2,php,python3 python2, vsftpd and mariadb
+___ Set up users :useradd name_of_user
+___ Set up the web framework that will be used for multiple users
+		/home/users
+		/home/http/
+		/home/http/pma (phpMyAdmin)
+		/home/http/data/
+		/home/http/wp/
+		
+		
