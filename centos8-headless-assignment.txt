@@ -9,7 +9,7 @@ ___ Assigned static ip : 10.183.  __________ __________
 ___ Enable fastmirror (fastestmirror=true) as a sudo -i user
 	Type: sudo -i
 	Type: echo "fastestmirror=true" >> /etc/dnf/dnf.conf
-	Check it: sudo mopre /etc/dnf/dnf.cong
+	Check it: sudo more /etc/dnf/dnf.cong
 ___ Only use dnf to install
 ___ dnf list installed > list-base-packages-1.txt
 ___ Update system (sudo dnf update)
@@ -27,10 +27,8 @@ ___ Install apache2(httpd),python3 python2, vsftpd and mariadb.server
 ___ Start apache2: systemctl start httpd.service
 ___ Enable apache2: systemctl enable httpd.service	
 ___ Install php using the following:
-	dnf module install php
-	dnf module install php:7.2/common
-	systemctl restart httpd.service
-	systemctl restart php-fpm.service 
+	dnf module install php; dnf module install php:7.2/common;
+	systemctl restart httpd.service; systemctl restart php-fpm.service; 
 
 
 notes:
