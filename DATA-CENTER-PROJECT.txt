@@ -50,21 +50,33 @@ Apache2 tree:
 /home/http/stream/
 
 TESTING index.php
- more index.php 
-<center>
+more index.php 
+<!DOCTYPE html><html><head><title>TITLE</title><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+<center><h1>
+HolaMondo <br />
 &nbsp;<a href = "pma/" > PMA </a>
 &nbsp;<a href = "data/"> DATA </a>
 &nbsp;<a href = "logs/"> LOGS </a>
 &nbsp;<a href = "downloads/"> DOWNLOADS </a>
 &nbsp;<a href = "test.php/" target = "_blank"> test.php </a>
+<hr />
+<?php
+echo $_SERVER['HTTP_HOST'];
+echo "&nbsp;";
+echo $_SERVER['HTTP_USER_AGENT'];
+echo "<br />";
+$output = shell_exec('cal');
+echo "<pre>$output</pre>";
+$output = shell_exec('date');
+echo "<pre>$output</pre>";
+?>
+</h1>
 </center>
-[cwc@yoda8 http]$ more test.php 
-<center>
-&nbsp;<a href = "python/">PYTHON </a>
-&nbsp;<a href = "data/"> DATA </a>  
-&nbsp;<a href = "logs/"> LOGS </a> 
-&nbsp;<a href = "downloads/"> DOWNLOADS </a>
-</center>
+</body>
+</html> 
+
+more test.php 
 <?php phpinfo(); ?>
 
 
