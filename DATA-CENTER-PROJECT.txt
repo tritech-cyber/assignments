@@ -49,6 +49,26 @@ Apache2 tree:
 /home/http/data/  (Data from external sources)
 /home/http/stream/
 
+TESTING index.php
+ more index.php 
+<center>
+&nbsp;<a href = "pma/" > PMA </a>
+&nbsp;<a href = "data/"> DATA </a>
+&nbsp;<a href = "logs/"> LOGS </a>
+&nbsp;<a href = "downloads/"> DOWNLOADS </a>
+&nbsp;<a href = "test.php/" target = "_blank"> test.php </a>
+</center>
+[cwc@yoda8 http]$ more test.php 
+<center>
+&nbsp;<a href = "python/">PYTHON </a>
+&nbsp;<a href = "data/"> DATA </a>  
+&nbsp;<a href = "logs/"> LOGS </a> 
+&nbsp;<a href = "downloads/"> DOWNLOADS </a>
+</center>
+<?php phpinfo(); ?>
+
+
+
 All users need to document work they have done during the project.
 This inlcudes documentation of any reasearch.
 User documentation saved in /home/username/html and saved as a index.html file.
@@ -84,6 +104,10 @@ Disallow root login /etc/ssh/sshd_conf
 Set all users to login without a password using a key
 Set Raspberry Pi (RPi) to login without password using a key
 Advance(NOT FOR ALL GROUPS)- Set Apache2 to https://ip
+
+Centos:
+Write bash script to restart apache2, php-fpm vsftpd
+
 
 Raspberry Pi (RPi) 4 (4GB)
 - Use the dd command to install.  dd if=  of=
