@@ -15,11 +15,9 @@ TEAMWORK
 Create a TEAM name.
 Create a LOGO (SVG and PNG)
 Create a MISSION sentence.
-Create a URL (io.ioe is Coleman's)
 	
 CENTOS8 INSTALL
-- TWO DRIVES /dev/sda  for root  and  /dev/sdb for data data
-- /data will be added to /etc/fstab
+- ONE DRIVE /dev/sda  
 - INSTALL:
 	HTTP (APACHE2), VSFTPD, MARIADB, PHP 7.2, TCPDUMP
 - APACHE2 NEEDS A DOCUMENT ROOT AT home/http
@@ -45,9 +43,9 @@ Apache2 tree:
 	List all user html directories ln -s /home/user1/html   /home/http/documentation/user1
 /home/http/downloads/
 /home/http/pma/
-/home/http/wp/
-/home/http/data/  (Data from external sources)
-/home/http/stream/
+/home/http/wp/  WordPress
+/home/http/data/  
+/home/http/stream/  maybe
 
 TESTING index.php
 more index.php 
@@ -118,8 +116,6 @@ Set Raspberry Pi (RPi) to login without password using a key
 Advance(NOT FOR ALL GROUPS)- Set Apache2 to https://ip
 
 Centos:
-Write bash script to restart apache2, php-fpm vsftpd
-
 
 Raspberry Pi (RPi) 4 (4GB)
 - Use the dd command to install.  dd if=  of=
@@ -131,7 +127,8 @@ Raspberry Pi (RPi) 4 (4GB)
 	Kernel version: 4.19
 	Size: 2541 MB
 
--  More to come with RPi
+-  Connect and Arduino to the Raspberry Pi and collect data from an UltraSonic Sensor.
+-  Send the data automatically to the Centos server.
 
 NOTES:
 https://geekflare.com/apache-web-server-hardening-security/
