@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>CS</title>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/custom.bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+<style>
+  .showcolor { display: inline-block; padding: 2px 3px 2px 3px ; margin: 1px 1px 1px 1px; }
+     .block { display: inline-block; font-size: 13px; font-weight: bold; padding: 3px 13px 3px 13px ; margin: 3px 3px 3px 3px; }
+      .smallblock { display: inline-block; font-size: 7px; font-weight: bold; margin: 0px 0px 0px 0px;}
+      .y1-bg{background-color: #90A959;}
+      .y2-bg{background-color: #6A9FB5;}
+     .b00-bg { background-color: #F5F5F5; }
+     .b01-bg{ background-color: #E0E0E0; }
+     .b02-bg{ background-color: #D0D0D0; }
+     .b03-bg{ background-color: #B0B0B0; }
+     .b04-bg{ background-color: #505050; }
+     .b05-bg{ background-color: #303030; }
+     .b06-bg{ background-color: #202020; }
+     .b07-bg{ background-color: #151515; }
+     .b08-bg{ background-color: #AC4142; }
+     .b09-bg{ background-color: #D28445; }
+     .b0a-bg{ background-color: #F4BF75; }
+     .b0b-bg{ background-color: #90A959; }
+     .b0c-bg{ background-color: #75B5AA; }
+     .b0d-bg{ background-color: #6A9FB5; }
+     .b0e-bg{ background-color: #AA759F; }
+     .b0f-bg{ background-color: #8F5536; }
+
+     .b00 { color: #F5F5F5; }
+     .b01 { color: #E0E0E0; }
+     .b02 { color: #D0D0D0; }
+     .b03 { color: #B0B0B0; }
+     .b04 { color: #505050; }
+     .b05 { color: #303030; }
+     .b06 { color: #202020; }
+     .b07 { color: #151515; }
+     .b08 { color: #AC4142; }
+     .b09 { color: #D28445; }
+     .b0A { color: #F4BF75; }
+     .b0B { color: #90A959; }
+     .b0C { color: #75B5AA; }
+     .b0D { color: #6A9FB5; }
+     .b0E { color: #AA759F; }
+     .b0F { color: #8F5536; }
+
+       .s00-bg{ background-color: #fdf6e3; }
+       .s01-bg{ background-color: #eee8d5; }
+       .s02-bg{ background-color: #93a1a1; }
+       .s03-bg{ background-color: #839496; }
+       .s04-bg{ background-color: #657b83; }
+       .s05-bg{ background-color: #586e75; }
+       .s06-bg{ background-color: #073642; }
+       .s07-bg{ background-color: #002b36; }
+       .s08-bg{ background-color: #dc322f; }
+       .s09-bg{ background-color: #cb4b16; }
+       .s0A-bg{ background-color: #b58900; }
+       .s0B-bg{ background-color: #859900; }
+       .s0C-bg{ background-color: #2aa198; }
+       .s0D-bg{ background-color: #268bd2; }
+       .s0E-bg{ background-color: #6c71c4; }
+       .s0F-bg{ background-color: #d33682; }
+
+       .s00 { color: #fdf6e3; }
+       .s01 { color: #eee8d5; }
+       .s02 { color: #93a1a1; }
+       .s03 { color: #839496; }
+       .s04 { color: #657b83; }
+       .s05 { color: #586e75; }
+       .s06 { color: #073642; }
+       .s07 { color: #002b36; }
+       .s08 { color: #dc322f; }
+       .s09 { color: #cb4b16; }
+       .s0A { color: #b58900; }
+       .s0B { color: #859900; }
+       .s0C { color: #2aa198; }
+       .s0D { color: #268bd2; }
+       .s0E { color: #6c71c4; }
+       .s0F { color: #d33682; }
+
+     pre {
+       font-size: 14px;
+       padding: 10px 20px;
+     }
+</style>
+</head>
+<body>
+<!-- start menu -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">*/assignments</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link base08-b" href="#"  >Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+  <!-- end menu -->
+<hr />
+    <div class="row">
+     <div class="col-sm-2 ">
+       <!-- heading -->
+        <div class="block y1-bg b07">Cyber Year 1</div>
+        <div class="block y2-bg b07">Cyber Year 2</div>
+        <br />
+       <!-- week 1 -->
+        <a href="assignments/Week1-Year1.pdf" target="iframe_a" class="block y1-bg b07" >Week 1 Y1</a>
+        <a href="week1-y2.html" target="iframe_a" class="block y2-bg b07" >Week 1 Y2</a>
+        <br />
+        <!-- week 2 -->
+         <a href="week1-y1.html" target="iframe_a" class="block base0B-b base07" >Week 1 Y1</a>
+         <a href="week1-y2.html" target="iframe_a" class="block base0D-bg base07" >Week 1 Y2</a>
+             <br />
+         <!-- week 3 -->
+          <a href="week1-y1.html" target="iframe_a" class="block base0B-bg base07" >Week 1 Y1</a>
+          <a href="week1-y2.html" target="iframe_a" class="block base0D-bg base07" >Week 1 Y2</a>
+          <br />
+          <!-- week 4 -->
+           <a href="week1-y1.html" target="iframe_a" class="block base0B-bg base07" >Week 1 Y1</a>
+           <a href="week1-y2.html" target="iframe_a" class="block base0D-bg base07" >Week 1 Y2</a>
+           <br />
+</div>
+<!--iframe   -->
+    <div class="col-sm-9 b02-bg">
+      <div class="smallblock">
+      <span class="b00-bg">&nbsp;</span><span class="b01-bg">&nbsp;</span><span class="b02-bg">&nbsp;</span><span class="b03-bg">&nbsp;</span>
+      <span class="b04-bg">&nbsp;</span><span class="b05-bg">&nbsp;</span><span class="b06-bg">&nbsp;</span><span class="b07-bg">&nbsp;</span>
+      <span class="b08-bg">&nbsp;</span><span class="b09-bg">&nbsp;</span><span class="b0A-bg">&nbsp;</span><span class="b0B-bg">&nbsp;</span>
+      <span class="b0C-bg">&nbsp;</span><span class="b0D-bg">&nbsp;</span><span class="b0E-bg">&nbsp;</span><span class="b0F-bg">&nbsp;</span>
+
+      <span class="s00-bg">&nbsp;</span><span class="s01-bg">&nbsp;</span><span class="s02-bg">&nbsp;</span><span class="s03-bg">&nbsp;</span>
+      <span class="s04-bg">&nbsp;</span><span class="s05-bg">&nbsp;</span><span class="s06-bg">&nbsp;</span><span class="s07-bg">&nbsp;</span>
+      <span class="s08-bg">&nbsp;</span><span class="s09-bg">&nbsp;</span><span class="s0A-bg">&nbsp;</span><span class="s0B-bg">&nbsp;</span>
+      <span class="s0C-bg">&nbsp;</span><span class="s0D-bg">&nbsp;</span><span class="s0E-bg">&nbsp;</span><span class="s0F-bg">&nbsp;</span>
+    </div>
+		  <iframe src="intro.html" name="iframe_a" height = "800px" width="100%" title="Contents" frameBorder="0"></iframe>
+	  </div>
+
+    </div>
+  </div>
+  <br>
+
+
+
+
+  <div class="container">
+      <br />Base16 Default <br />
+      <div class="block b00-bg b07">00</div>
+      <div class="block b01-bg b07">01</div>
+      <div class="block b02-bg b07">02</div>
+      <div class="block b03-bg b07">03</div>
+      <div class="block b04-bg b00">04</div>
+      <div class="block b05-bg b00">05</div>
+      <div class="block b06-bg b00">06</div>
+      <div class="block b07-bg b00">07</div>
+      <br />
+      <div class="block b08-bg b07">08</div>
+      <div class="block b09-bg b07">09</div>
+      <div class="block b0A-bg b07">0A</div>
+      <div class="block b0B-bg b07">0B</div>
+      <div class="block b0C-bg b07">0C</div>
+      <div class="block b0D-bg b07">0D</div>
+      <div class="block b0E-bg b07">0E</div>
+      <div class="block b0F-bg b07">0F</div>
+      <br />Base16 Solarized<br />
+      <div class="block s00-bg s07">00</div>
+      <div class="block s01-bg s07">01</div>
+      <div class="block s02-bg s07">02</div>
+      <div class="block s03-bg s07">03</div>
+      <div class="block s04-bg s00">04</div>
+      <div class="block s05-bg s00">05</div>
+      <div class="block s06-bg s00">06</div>
+      <div class="block s07-bg s00">07</div>
+      <br />
+      <div class="block s08-bg s07">08</div>
+      <div class="block s09-bg s07">09</div>
+      <div class="block s0A-bg s07">0A</div>
+      <div class="block s0B-bg s07">0B</div>
+      <div class="block s0C-bg s07">0C</div>
+      <div class="block s0D-bg s07">0D</div>
+      <div class="block s0E-bg s07">0E</div>
+      <div class="block s0F-bg s07">0F</div>
+
+
+
+<pre>
+  <div class="showcolor b00-bg">&nbsp;</div><div class="showcolor b01-bg">&nbsp;</div><div class="showcolor b02-bg">&nbsp;</div><div class="showcolor b03-bg">&nbsp;</div>
+  <div class="showcolor b04-bg">&nbsp;</div><div class="showcolor b05-bg">&nbsp;</div><div class="showcolor b06-bg">&nbsp;</div><div class="showcolor b07-bg">&nbsp;</div>
+  <div class="showcolor b08-bg">&nbsp;</div><div class="showcolor b09-bg">&nbsp;</div><div class="showcolor b0A-bg">&nbsp;</div><div class="showcolor b0B-bg">&nbsp;</div>
+  <div class="showcolor b0C-bg">&nbsp;</div><div class="showcolor b0D-bg">&nbsp;</div><div class="showcolor b0E-bg">&nbsp;</div><div class="showcolor b0F-bg">&nbsp;</div>
+.col- (extra small devices - screen width less than 576px)
+.col-sm- (small devices - screen width equal to or greater than 576px)
+.col-md- (medium devices - screen width equal to or greater than 768px)
+.col-lg- (large devices - screen width equal to or greater than 992px)
+.col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+</pre>
+  </div>
+
+</body>
+</html>
