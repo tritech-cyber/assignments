@@ -1,12 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>CS</title>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/custom.bootstrap.min.css">
+  <link rel="stylesheet" href="css/base16.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
 Start by doing what's necessary; <br />
 then do what's possible; <br />
 and suddenly you are doing the impossible. <br />
-<img src = "img/space.png"><img src = "img/space.png"><img src = "img/space.png">
-<br /> <br />
-<img src = "img/star-space.png"><img src = "img/star-space.png"><img src = "img/star-space.png">
 <p id="thedate"></p>
 <script>
 var d = new Date();
 document.getElementById("thedate").innerHTML = d;
 </script>
 
+  <div class="container">
+      <br />Base16 Default <br />
+      <div class="block b00-bg b07">00</div>
+      <div class="block b01-bg b07">01</div>
+      <div class="block b02-bg b07">02</div>
+      <div class="block b03-bg b07">03</div>
+      <div class="block b04-bg b00">04</div>
+      <div class="block b05-bg b00">05</div>
+      <div class="block b06-bg b00">06</div>
+      <div class="block b07-bg b00">07</div>
+      <br />
+      <div class="block b08-bg b07">08</div>
+      <div class="block b09-bg b07">09</div>
+      <div class="block b0a-bg b07">0A</div>
+      <div class="block b0b-bg b07">0B</div>
+      <div class="block b0c-bg b07">0C</div>
+      <div class="block b0d-bg b07">0D</div>
+      <div class="block b0e-bg b07">0E</div>
+      <div class="block b0f-bg b07">0F</div>
+      <br />Base16 Solarized<br />
+      <div class="block s00-bg s07">00</div>
+      <div class="block s01-bg s07">01</div>
+      <div class="block s02-bg s07">02</div>
+      <div class="block s03-bg s07">03</div>
+      <div class="block s04-bg s00">04</div>
+      <div class="block s05-bg s00">05</div>
+      <div class="block s06-bg s00">06</div>
+      <div class="block s07-bg s00">07</div>
+      <br />
+      <div class="block s08-bg s07">08</div>
+      <div class="block s09-bg s07">09</div>
+      <div class="block s0a-bg s07">0A</div>
+      <div class="block s0b-bg s07">0B</div>
+      <div class="block s0c-bg s07">0C</div>
+      <div class="block s0d-bg s07">0D</div>
+      <div class="block s0e-bg s07">0E</div>
+      <div class="block s0f-bg s07">0F</div>
+
+
+
+<pre>
+ .col- (extra small devices - screen width less than 576px)
+.col-sm- (small devices - screen width equal to or greater than 576px)
+.col-md- (medium devices - screen width equal to or greater than 768px)
+.col-lg- (large devices - screen width equal to or greater than 992px)
+.col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+    <div class="smallblock">
+     <span class="b00-bg">&nbsp;</span><span class="b01-bg">&nbsp;</span><span class="b02-bg">&nbsp;</span><span class="b03-bg">&nbsp;</span>
+      <span class="b04-bg">&nbsp;</span><span class="b05-bg">&nbsp;</span><span class="b06-bg">&nbsp;</span><span class="b07-bg">&nbsp;</span>
+      <span class="b08-bg">&nbsp;</span><span class="b09-bg">&nbsp;</span><span class="b0A-bg">&nbsp;</span><span class="b0B-bg">&nbsp;</span>
+      <span class="b0C-bg">&nbsp;</span><span class="b0D-bg">&nbsp;</span><span class="b0E-bg">&nbsp;</span><span class="b0F-bg">&nbsp;</span>
+
+      <span class="s00-bg">&nbsp;</span><span class="s01-bg">&nbsp;</span><span class="s02-bg">&nbsp;</span><span class="s03-bg">&nbsp;</span>
+      <span class="s04-bg">&nbsp;</span><span class="s05-bg">&nbsp;</span><span class="s06-bg">&nbsp;</span><span class="s07-bg">&nbsp;</span>
+      <span class="s08-bg">&nbsp;</span><span class="s09-bg">&nbsp;</span><span class="s0A-bg">&nbsp;</span><span class="s0B-bg">&nbsp;</span>
+      <span class="s0C-bg">&nbsp;</span><span class="s0D-bg">&nbsp;</span><span class="s0E-bg">&nbsp;</span><span class="s0F-bg">&nbsp;</span>
+    </div>
+</pre>
+  </div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+.showcolor { display: inline-block; padding: 2px 3px 2px 3px ; margin: 1px 1px 1px 1px; }
+     .block { display: inline-block; font-size: 13px; font-weight: bold; padding: 3px 13px 3px 13px ; margin: 3px 3px 3px 3px; }
+      .smallblock { display: inline-block; font-size: 7px; font-weight: bold; margin: 0px 0px 0px 0px;}
+      .y1-bg{background-color: #75B5AA;}
+      .y2-bg{background-color: #6A9FB5;}
+     .b00-bg { background-color: #F5F5F5; }
+     .b01-bg{ background-color: #E0E0E0; }
+     .b02-bg{ background-color: #D0D0D0; }
+     .b03-bg{ background-color: #B0B0B0; }
+     .b04-bg{ background-color: #505050; }
+     .b05-bg{ background-color: #303030; }
+     .b06-bg{ background-color: #202020; }
+     .b07-bg{ background-color: #151515; }
+     .b08-bg{ background-color: #AC4142; }
+     .b09-bg{ background-color: #D28445; }
+     .b0a-bg{ background-color: #F4BF75; }
+     .b0b-bg{ background-color: #90A959; }
+     .b0c-bg{ background-color: #75B5AA; }
+     .b0d-bg{ background-color: #6A9FB5; }
+     .b0e-bg{ background-color: #AA759F; }
+     .b0f-bg{ background-color: #8F5536; }
+
+     .b00 { color: #F5F5F5; }
+     .b01 { color: #E0E0E0; }
+     .b02 { color: #D0D0D0; }
+     .b03 { color: #B0B0B0; }
+     .b04 { color: #505050; }
+     .b05 { color: #303030; }
+     .b06 { color: #202020; }
+     .b07 { color: #151515; }
+     .b08 { color: #AC4142; }
+     .b09 { color: #D28445; }
+     .b0a { color: #F4BF75; }
+     .b0b { color: #90A959; }
+     .b0c { color: #75B5AA; }
+     .b0d { color: #6A9FB5; }
+     .b0e { color: #AA759F; }
+     .b0f { color: #8F5536; }
+
+       .s00-bg{ background-color: #fdf6e3; }
+       .s01-bg{ background-color: #eee8d5; }
+       .s02-bg{ background-color: #93a1a1; }
+       .s03-bg{ background-color: #839496; }
+       .s04-bg{ background-color: #657b83; }
+       .s05-bg{ background-color: #586e75; }
+       .s06-bg{ background-color: #073642; }
+       .s07-bg{ background-color: #002b36; }
+       .s08-bg{ background-color: #dc322f; }
+       .s09-bg{ background-color: #cb4b16; }
+       .s0a-bg{ background-color: #b58900; }
+       .s0b-bg{ background-color: #859900; }
+       .s0c-bg{ background-color: #2aa198; }
+       .s0d-bg{ background-color: #268bd2; }
+       .s0e-bg{ background-color: #6c71c4; }
+       .s0f-bg{ background-color: #d33682; }
+
+       .s00 { color: #fdf6e3; }
+       .s01 { color: #eee8d5; }
+       .s02 { color: #93a1a1; }
+       .s03 { color: #839496; }
+       .s04 { color: #657b83; }
+       .s05 { color: #586e75; }
+       .s06 { color: #073642; }
+       .s07 { color: #002b36; }
+       .s08 { color: #dc322f; }
+       .s09 { color: #cb4b16; }
+       .s0a { color: #b58900; }
+       .s0b { color: #859900; }
+       .s0c { color: #2aa198; }
+       .s0d { color: #268bd2; }
+       .s0e { color: #6c71c4; }
+       .s0f { color: #d33682; }
+
+     pre {
+       font-size: 14px;
+       padding: 10px 20px;
+     }
