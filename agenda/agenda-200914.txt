@@ -1,0 +1,21 @@
+
+NON-KSD EMAIL (Set alias to your name please)
+RPi set up ???????
+TIME LOG SPREADSHEET (Employable Grade)
+
+_ Time spreadsheet and attendance (Rename Copy of LAST_FIRST_TIMELOG)
+_ Read web site on setting up a RPi (Raspberry Pi)
+ https://projects.raspberrypi.org/en/pathways/getting-started-with-raspberry-pi
+_ Watch video on setting up a RPi
+https://drive.google.com/drive/folders/1Mz8pzsDDcj_-ry76ycX7rbpE95hoD4D5?usp=sharing
+_ Set up Raspberry Pi 4
+_ Python - 16 colored circle - https://trinket.io/python
+_ Authenticate with ksd.org email.  ##.first.last@ksd.org
+_ Send email from ##.username@ksd.org to Craig Coleman’s ksd account.
+_ Flip Grid
+_ Google Drive (Add shared folder to your ksd.org google drive.)
+_ Respect Bingo - Save in Google Drive in the shared folder I created for you.
+_ edhesive.com (Please authenticate with ksd.org email.)
+_ Microsoft Imagine (Azure).  Use ##.username@ksd.org Microsoft account.
+_ Week 3 Employability (3 * 5 = 15)
+_ Think about your SONG! You will download from youtube with your RPi.
