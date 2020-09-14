@@ -1,6 +1,9 @@
-
+Sign in by typing "HERE"
+RPi set up ?????
+$sudo -i
+#apt install gimp inkscape
 NON-KSD EMAIL (Set alias to your name please)
-RPi set up ???????
+
 TIME LOG SPREADSHEET (Employable Grade)
 
 _ Time spreadsheet and attendance (Rename Copy of LAST_FIRST_TIMELOG)
@@ -8,6 +11,7 @@ _ Read web site on setting up a RPi (Raspberry Pi)
  https://projects.raspberrypi.org/en/pathways/getting-started-with-raspberry-pi
 _ Watch video on setting up a RPi
 https://drive.google.com/drive/folders/1Mz8pzsDDcj_-ry76ycX7rbpE95hoD4D5?usp=sharing
+https://www.realvnc.com/en/connect/download/viewer/
 _ Set up Raspberry Pi 4
 _ Python - 16 colored circle - https://trinket.io/python
 _ Authenticate with ksd.org email.  ##.first.last@ksd.org
