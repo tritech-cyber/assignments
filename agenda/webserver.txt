@@ -1,0 +1,20 @@
+http://tritechsc.org/  80
+https://tritechsc.ksd.org/  443
+https://tritechsc.ksd.org/cyber/
+
+What is a web server?
+Port 80 and port 443
+http://10.183.3.20:80
+IP with a PORT is a SOCKET
+Apache2 is a web server application
+ used on Linux and Windows .
+
+ https://httpd.apache.org/
+
+ Installation on Debian 10
+$sudo -i
+#apt update
+#apt install Apache2
+#apt install php
+https://tritechsc.ksd.org/cyber/assignments/documents/localwww.conf
+Add a custom *.conf to /etc/apache2/sites-available
