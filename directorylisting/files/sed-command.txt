@@ -1,2 +1,0 @@
-sed 's/{LISTING_DIRECTORY}/apache-directory-listing/' htaccess.txt.original > htaccess-26-new
-

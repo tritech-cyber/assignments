@@ -1,2 +1,0 @@
-sed 's/10.183.1.26/127.0.0.1/' htaccess.txt > htaccess-localhost.txt 
-
