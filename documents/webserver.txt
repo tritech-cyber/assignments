@@ -11,16 +11,10 @@ Apache2 is a web server application
 
  https://httpd.apache.org/
 
-Installation on Debian 10
+ Installation on Debian 10
 $sudo -i
 #apt update
 #apt install Apache2
 #apt install php
-// look at the "wget" command
 wget https://tritechsc.ksd.org/cyber/assignments/documents/localwww.conf
 Add a custom *.conf to /etc/apache2/sites-available
-As a none root users:
-$mkdir /var/www/html/logs
-Change permisssions.
-$sudo pi:pi -R /var/www/
-Create a symbolic link:
