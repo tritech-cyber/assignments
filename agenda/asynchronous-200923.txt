@@ -1,0 +1,23 @@
+Asynchronous - 200923
+Link to Google Folder: https://drive.google.com/drive/folders/1i1k2389sR_byvakMRiShl7I-DCMiVPSB?usp=sharing
+Cyber Security Assignments
+https://tritechsc.ksd.org/cyber/assignments/assignments/Week-4-Y1.pdf
+https://tritechsc.ksd.org/cyber/assignments/
+
+COMPUTER ETHICS
+-  Add your opinion to the shared document in reference to the Teri Childs article.
+AM
+https://docs.google.com/document/d/18U7dQsNWR-4QgVpK5tm_ODc8hrjwoskI_9xgvNsg0HY/edit?usp=sharing
+PM
+https://docs.google.com/document/d/1CFy1Z64feNDzZVUZSqHBmiaBoyUNOvPJnO895ysYLuw/edit?usp=sharing
+
+- Email me (craig.coleman@ksd.org) you rough draft of your ethics document using your ksd.org email.
+Add this to your document:
+Tri-Tech Cyber Security
+I will not use nmap in the Tri-Tech Lab P201 until it is a controlled activity.
+I will not use a proxy server or VPN in the  Tri-Tech Lab P201
+
+- Complete Ethics Document - Save in Google Drive Last_First_Cyber folder.
+  Second year students move your Ethics Document to Google Drive folder I shared with you.
+
+- Python.  Work on your edhesive.com code.
