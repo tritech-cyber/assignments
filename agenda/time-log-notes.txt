@@ -1,0 +1,6 @@
+TIMELOG SPREADSHEET IN GOOGLE DRIVE
+
+shift click  (shift select)
+
+Control + D (fills down)
+Control + R (fills right)
