@@ -21,6 +21,25 @@ wget https://tritechsc.ksd.org/cyber/assignments/documents/localwww.conf
 Add a custom *.conf to /etc/apache2/sites-available
 As a none root users:
 $mkdir /var/www/html/logs
+As a sudo -i user:
+#cd /etc/apache2/
+#ls -l
+#cd sites-enabled
+// Remove the link file 000-default.conf
+#rm 000-default.conf
+// Move back to  /etc/apache2/sites-available/
+#cd /etc/apache2/sites-available/
+#a2ensite localwww.conf
+#systemctl restart apache2
+
 Change permisssions.
 $sudo pi:pi -R /var/www/
 Create a symbolic link:
+# cd /
+20:/# chown pi:pi -R /var/www/
+20:/# echo "create a shortcut or symlink"
+create a shortcut or symlink
+20:/# exit
+logout
+pi@20:~ $ ln -s /var/www/ /home/pi/www
+pi@20:~ $ ln -s /var/www/ /home/pi/www
