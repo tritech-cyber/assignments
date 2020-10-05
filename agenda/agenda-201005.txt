@@ -1,0 +1,8 @@
+create a github.com account
+create 3 repositories:
+linux
+microsoft
+python
+
+Make repo
+public and add a README.md
