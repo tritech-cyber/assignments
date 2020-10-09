@@ -1,0 +1,9 @@
+body { margin: 33px; color: #333; background: #efefef; }
+h1 { font: 18px "Courier New"; }
+pre { margin: 3px 0; color: #777; font: 14px/18px "Courier New";	text-align: left; }
+a:link { text-decoration: none; color: #555; }
+a:visited { text-decoration: none; color: #777; }
+a:hover, a:active { text-decoration: underline; color: maroon; }
+pre img { display: inline; }
+img { display: none; }
+hr { margin: 10px 0; }
