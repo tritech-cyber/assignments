@@ -1,15 +1,22 @@
-Update TimeLog
-
+Please start working on updating your  Time Log Spreadsheet
 
 Python
 Decimal to Hexadecimal
 Decimal to Binary
+
 MinecraftPi
 block-text.py
 blocks-starter.py
 
+Year 2
+PacketTracer
+Create a network with 3 different networks
+172.*.*.*
+192.*.*.*
+10.*.*.*
+Use 3 switches and 1 to 3 routers
 
-Khan Academy	
+Khan Academy
 Multiplying in binary
 Converting from decimal to hexadecimal representation
 Hexadecimal number system
