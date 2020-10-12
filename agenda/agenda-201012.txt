@@ -1,0 +1,22 @@
+Update TimeLog
+
+
+Python
+Decimal to Hexadecimal
+Decimal to Binary
+MinecraftPi
+block-text.py
+blocks-starter.py
+
+
+
+Khan Academy	
+Multiplying in binary
+Converting from decimal to hexadecimal representation
+Hexadecimal number system
+Converting larger number from decimal to binary
+Adding in binary
+Converting from decimal to binary
+Converting directly from binary to hexadecimal
+Introduction to number systems and binary
+How to count to 1000 on two hands
