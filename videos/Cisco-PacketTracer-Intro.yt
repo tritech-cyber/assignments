@@ -1,11 +1,3 @@
-Cisco PacketTracer
-A router connects two different networks.
-192.*.*.*/24 can connect to 172.*.*.*/24 using a router.
-
-
-What is the difference between Gigabit Ethernet and Fast Ethernet?
-Cisco switches and routers.
-
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/mNN0DojnsTc" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture"
