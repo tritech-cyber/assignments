@@ -11,3 +11,22 @@ Respect people:
 Tri-Tech Cyber Security
 I will not use nmap in the Tri-Tech Lab P201 until it is a controlled activity.
 I will not use a proxy server or VPN in the  Tri-Tech Lab P201
+
+
+notes:
+Respect the End User
+I will respect the privacy of users in a network I manage unless I feel data would harm others.
+End users are customers on a network I manage.
+
+Respect my Employer
+I will respect the computer network and computer equipment provided to me from my employer.  
+
+Respect Humans
+I will respect people on computer networks and especially social networks.  I will treat any computer and digital correspondence as permanent.  I will try to follow Netiquette guidelines during digital communication.
+
+Tri-Tech Cyber Security Lab
+I will not use nmap in the Tri-Tech Lab P201 until it is a controlled activity.
+I will not use a proxy server or VPN in the  Tri-Tech Lab P201 
+I will use the equipment in the Tri-Tech Cyber Security Lab in an ethical way.
+
+
