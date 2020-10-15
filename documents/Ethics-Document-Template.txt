@@ -1,0 +1,13 @@
+Ethics Document
+
+
+Personal narrative:
+
+Respect the End User:
+
+Respect my employer:
+
+Respect people:
+Tri-Tech Cyber Security
+I will not use nmap in the Tri-Tech Lab P201 until it is a controlled activity.
+I will not use a proxy server or VPN in the  Tri-Tech Lab P201
