@@ -16,7 +16,7 @@
    version="1.1"
    id="svg595"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="thumbnails-python.svg">
+   sodipodi:docname="thumbnail-cyber-security.svg">
   <defs
      id="defs589" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="-1085.5128"
-     inkscape:cy="162.04675"
+     inkscape:cx="-1154.2032"
+     inkscape:cy="412.39126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,26 +54,34 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="420.66183"
-       x="-396.29086"
+       y="444.18155"
+       x="-682.80377"
        id="image869"
        xlink:href="data:image/png;base64,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 AABJRU5ErkJggg== "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="202.37811"
-       width="609.76935" />
+       height="121.12818"
+       width="450.47672" />
     <path
        id="rect2379-8-5"
-       d="m -520.49524,-206.48024 h 800 v 600 h -800 z"
+       d="m -436.47809,-173.57099 h 800 v 600 h -800 z"
        style="opacity:0.98000004;fill:#efe8d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47820437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       style="opacity:0.98000004;fill:#f4f2f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47820437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -436.47809,-173.57099 h 800 v 600 h -800 z"
+       id="path872"
+       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <g
        id="flowRoot1773-5-9-8"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#389adc;fill-opacity:1;stroke:none"
-       transform="matrix(0.18672387,0,0,0.18672387,390.77967,439.94775)"
+       transform="matrix(0.18672387,0,0,0.18672387,452.18289,445.36725)"
        aria-label="security"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -122,7 +130,7 @@
     <g
        id="flowRoot1773-6"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1eba9c;fill-opacity:1;stroke:none"
-       transform="matrix(0.18672387,0,0,0.18672387,394.54992,386.84336)"
+       transform="matrix(0.18672387,0,0,0.18672387,452.28014,400.74138)"
        aria-label="cyber"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -153,28 +161,9 @@
          d="m -1019.8913,-369.99935 q -6.25,-5.72917 -14.7136,-8.59375 -8.3333,-2.86459 -18.3593,-2.86459 -12.1094,0 -21.224,4.29688 -8.9844,4.16666 -13.9323,12.23958 -3.125,4.94792 -4.4271,11.97917 -1.1718,7.03125 -1.1718,21.35416 v 67.1875 h -38.1511 v -145.83333 h 38.1511 v 22.65625 q 5.5989,-12.5 17.1875,-19.27083 11.5885,-6.90104 27.0833,-6.90104 7.8125,0 15.2344,1.95312 7.552,1.82292 14.3229,5.46875 z"
          inkscape:connector-curvature="0" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot778"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#389adc;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-90.236168,-31.284919)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png"><flowRegion
-         id="flowRegion780"
-         style="fill:#389adc;fill-opacity:1"><rect
-           id="rect782"
-           width="2817.4563"
-           height="654.28577"
-           x="-1400"
-           y="-468.90887"
-           style="fill:#389adc;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara784"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">#!/usr/bin/env python3</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
-         id="flowPara1024" /></flowRoot>    <path
+    <path
        id="path1784-74-8-6-7"
-       d="m -388.95869,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       d="m -331.22847,330.5904 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
        style="opacity:0.98000004;fill:#e34c3d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -182,7 +171,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-0-9-9-5"
-       d="m -196.04007,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       d="m -138.30985,330.5904 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
        style="opacity:0.98000004;fill:#bb633d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -190,7 +179,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-1-6-3-9"
-       d="m -223.59986,316.69238 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
+       d="m -165.86964,330.5904 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
        style="opacity:0.98000004;fill:#9958b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -198,7 +187,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-11-7-0-2"
-       d="m -251.15968,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       d="m -193.42946,330.5904 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
        style="opacity:0.98000004;fill:#3496d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -206,7 +195,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-21-8-9-2"
-       d="m -278.71951,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       d="m -220.98929,330.5904 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
        style="opacity:0.98000004;fill:#1ab99b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -214,7 +203,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-6-5-1-8"
-       d="m -306.27924,316.69238 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52114,-11.52111 11.521122,11.521122 0 0 1 11.52114,-11.52112 11.521122,11.521122 0 0 1 11.52115,11.52112 z"
+       d="m -248.54902,330.5904 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52114,-11.52111 11.521122,11.521122 0 0 1 11.52114,-11.52112 11.521122,11.521122 0 0 1 11.52115,11.52112 z"
        style="opacity:0.98000004;fill:#2ec971;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -222,7 +211,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-5-4-4-9"
-       d="m -333.8391,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       d="m -276.10888,330.5904 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
        style="opacity:0.98000004;fill:#edc111;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -230,7 +219,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-06-2-7-7"
-       d="m -361.39889,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       d="m -303.66867,330.5904 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
        style="opacity:0.98000004;fill:#e27d23;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -238,7 +227,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-8-6-3"
-       d="m -158.47361,316.69238 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
+       d="m -100.74339,330.5904 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
        style="opacity:0.98000004;fill:#2c3e50;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -246,7 +235,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-0-9-9-6"
-       d="M 34.445,316.69238 A 11.521122,11.521122 0 0 1 22.9239,328.21349 11.521122,11.521122 0 0 1 11.40279,316.69238 11.521122,11.521122 0 0 1 22.9239,305.17127 11.521122,11.521122 0 0 1 34.445,316.69238 Z"
+       d="m 92.175216,330.5904 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
        style="opacity:0.98000004;fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -254,7 +243,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-1-6-3-1"
-       d="m 6.8852196,316.69238 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.52114,11.52111 z"
+       d="m 64.615436,330.5904 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52114,11.52111 z"
        style="opacity:0.98000004;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -262,7 +251,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-11-7-0-29"
-       d="m -20.67461,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,11.52111 z"
+       d="m 37.055606,330.5904 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,11.52111 z"
        style="opacity:0.98000004;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -270,7 +259,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-21-8-9-3"
-       d="m -48.234431,316.69238 a 11.521122,11.521122 0 0 1 -11.521109,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.521109,11.52111 z"
+       d="M 9.4957858,330.5904 A 11.521122,11.521122 0 0 1 -2.0253239,342.11151 11.521122,11.521122 0 0 1 -13.546444,330.5904 11.521122,11.521122 0 0 1 -2.0253239,319.06929 11.521122,11.521122 0 0 1 9.4957858,330.5904 Z"
        style="opacity:0.98000004;fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -278,7 +267,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-6-5-1-1"
-       d="m -75.79416,316.69238 a 11.521122,11.521122 0 0 1 -11.521145,11.52111 11.521122,11.521122 0 0 1 -11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,11.52111 z"
+       d="m -18.063944,330.5904 a 11.521122,11.521122 0 0 1 -11.521145,11.52111 11.521122,11.521122 0 0 1 -11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,11.52111 z"
        style="opacity:0.98000004;fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -286,7 +275,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-5-4-4-94"
-       d="m -103.35402,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,11.52111 z"
+       d="m -45.623803,330.5904 a 11.521122,11.521122 0 0 1 -11.521112,11.52111 11.521122,11.521122 0 0 1 -11.521113,-11.52111 11.521122,11.521122 0 0 1 11.521113,-11.52111 11.521122,11.521122 0 0 1 11.521112,11.52111 z"
        style="opacity:0.98000004;fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -294,7 +283,7 @@
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-06-2-7-78"
-       d="m -130.91381,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.5211,-11.52111 11.521122,11.521122 0 0 1 11.5211,-11.52111 11.521122,11.521122 0 0 1 11.52112,11.52111 z"
+       d="m -73.183596,330.5904 a 11.521122,11.521122 0 0 1 -11.521113,11.52111 11.521122,11.521122 0 0 1 -11.521108,-11.52111 11.521122,11.521122 0 0 1 11.521108,-11.52111 11.521122,11.521122 0 0 1 11.521113,11.52111 z"
        style="opacity:0.98000004;fill:#34495e;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -303,155 +292,151 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot864"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7db2a0;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-686.87615,-116.60549)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7db2a0;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,21.922619,-7.5595238)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png"><flowRegion
          id="flowRegion866"
-         style="fill:#7db2a0;fill-opacity:1"><rect
+         style="fill:#7db2a0;fill-opacity:1;"><rect
            id="rect868"
-           width="2148.7471"
-           height="1043.2894"
+           width="1851.4286"
+           height="345.71426"
            x="-914.28571"
            y="411.09113"
-           style="fill:#7db2a0;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#7db2a0;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara870"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1">Decimal</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1"
-         id="flowPara1026">Hexadecimal</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1"
-         id="flowPara1028">Binary</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1">Bash Basics</flowPara></flowRoot>    <path
        id="path1784-74-8-6-7-3"
-       d="m -389.54227,275.61844 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
-       style="opacity:0.98000004;fill:#dc3781;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -331.81205,289.51646 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       style="opacity:0.98000004;fill:#d33682;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-0-9-9-5-6"
-       d="m -196.62365,275.61844 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
-       style="opacity:0.98000004;fill:#e63336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -138.89343,289.51646 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       style="opacity:0.98000004;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-1-6-3-9-7"
-       d="m -224.18344,275.61844 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
-       style="opacity:0.98000004;fill:#d44c24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -166.45322,289.51646 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
+       style="opacity:0.98000004;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-11-7-0-2-5"
-       d="m -251.74326,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
-       style="opacity:0.98000004;fill:#ba8922;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -194.01304,289.51646 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       style="opacity:0.98000004;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-21-8-9-2-3"
-       d="m -279.30309,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
-       style="opacity:0.98000004;fill:#849922;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -221.57287,289.51646 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       style="opacity:0.98000004;fill:#859900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-6-5-1-8-5"
-       d="m -306.86282,275.61844 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
-       style="opacity:0.98000004;fill:#00a198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.1326,289.51646 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
+       style="opacity:0.98000004;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-5-4-4-9-6"
-       d="m -334.42268,275.61844 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
-       style="opacity:0.98000004;fill:#008bcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -276.69246,289.51646 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       style="opacity:0.98000004;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-06-2-7-7-2"
-       d="m -361.98247,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
-       style="opacity:0.98000004;fill:#6a71c1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -304.25225,289.51646 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
+       style="opacity:0.98000004;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-8-6-3-9"
-       d="m -159.05719,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
-       style="opacity:0.98000004;fill:#002b35;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -101.32697,289.51646 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
+       style="opacity:0.98000004;fill:#002b36;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-0-9-9-6-1"
-       d="M 33.86142,275.61844 A 11.521122,11.521122 0 0 1 22.34033,287.13955 11.521122,11.521122 0 0 1 10.81921,275.61844 11.521122,11.521122 0 0 1 22.34033,264.09733 11.521122,11.521122 0 0 1 33.86142,275.61844 Z"
-       style="opacity:0.98000004;fill:#fef6e4;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.591636,289.51646 a 11.521122,11.521122 0 0 1 -11.52109,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52109,11.52111 z"
+       style="opacity:0.98000004;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-1-6-3-1-2"
-       d="m 6.3016596,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
-       style="opacity:0.98000004;fill:#efe8d6;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.031876,289.51646 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
+       style="opacity:0.98000004;fill:#eee8d5;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-11-7-0-29-7"
-       d="m -21.25819,275.61844 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
-       style="opacity:0.98000004;fill:#91a1a1;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.472026,289.51646 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
+       style="opacity:0.98000004;fill:#93a1a1;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-21-8-9-3-0"
-       d="m -48.818011,275.61844 a 11.521122,11.521122 0 0 1 -11.521099,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.521099,11.52111 z"
-       style="opacity:0.98000004;fill:#819496;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.9122058,289.51646 A 11.521122,11.521122 0 0 1 -2.6088939,301.03757 11.521122,11.521122 0 0 1 -14.130014,289.51646 11.521122,11.521122 0 0 1 -2.6088939,277.99535 11.521122,11.521122 0 0 1 8.9122058,289.51646 Z"
+       style="opacity:0.98000004;fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-6-5-1-1-9"
-       d="m -76.37772,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
-       style="opacity:0.98000004;fill:#627b82;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -18.647504,289.51646 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
+       style="opacity:0.98000004;fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-5-4-4-94-3"
-       d="m -103.9376,275.61844 a 11.521122,11.521122 0 0 1 -11.52109,11.52111 11.521122,11.521122 0 0 1 -11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52109,11.52111 z"
-       style="opacity:0.98000004;fill:#556e74;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -46.207384,289.51646 a 11.521122,11.521122 0 0 1 -11.52109,11.52111 11.521122,11.521122 0 0 1 -11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52109,11.52111 z"
+       style="opacity:0.98000004;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-06-2-7-78-6"
-       d="m -131.49739,275.61844 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
-       style="opacity:0.98000004;fill:#003641;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -73.767174,289.51646 a 11.521122,11.521122 0 0 1 -11.521103,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.521103,11.52111 z"
+       style="opacity:0.98000004;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:#1eba9d;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
     <path
        id="path1784-74-8-6-7-3-0"
-       d="m -389.87656,352.04179 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
+       d="m -332.14634,365.93981 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
        style="opacity:0.98000004;fill:#7ab09f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53883451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
@@ -461,7 +446,7 @@
        xml:space="preserve"
        id="flowRoot864-6"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7db2a0;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-130.93885,229.85894)"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.208631,243.75696)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png"><flowRegion
@@ -476,32 +461,55 @@
          id="flowPara870-1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1">CWColeman</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot5078"
+       id="flowRoot3941"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-57.730216,-13.898015)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><flowRegion
-         id="flowRegion5080"><rect
-           id="rect5082"
-           width="1486.9445"
-           height="832.36566"
-           x="-771.75653"
-           y="-89.663338" /></flowRegion><flowPara
-         id="flowPara5084"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">while loop <flowSpan
-   style="fill:#deaa87"
-   id="flowSpan5096">and</flowSpan></flowPara><flowPara
-         id="flowPara5086"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">if condition</flowPara></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3943"><rect
+           id="rect3945"
+           width="1632.4065"
+           height="2351.635"
+           x="-3584.0212"
+           y="-425.03397" /></flowRegion><flowPara
+         id="flowPara3977"
+         style="font-size:96px">$base03:    #002b36;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4871">$base02:    #073642;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4873">$base01:    #586e75;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4875">$base00:    #657b83;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4877">$base0:     #839496;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4879">$base1:     #93a1a1;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4881">$base2:     #eee8d5;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4883">$base3:     #fdf6e3;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4885">$yellow:    #b58900;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4887">$orange:    #cb4b16;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4889">$red:       #dc322f;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4891">$magenta:   #d33682;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4893">$violet:    #6c71c4;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4895">$blue:      #268bd2;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4897">$cyan:      #2aa198;</flowPara><flowPara
+         style="font-size:96px"
+         id="flowPara4899">$green:     #859900;</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot5088"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-57.730216,-13.898015)"><flowRegion
-         id="flowRegion5090"><rect
-           id="rect5092"
-           width="315.16757"
-           height="226.27417"
-           x="719.22858"
-           y="714.41809" /></flowRegion><flowPara
-         id="flowPara5094"></flowPara></flowRoot>  </g>
+       id="flowRoot4788"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4790"><rect
+           id="rect4792"
+           width="1099.0459"
+           height="1640.4877"
+           x="-3668.874"
+           y="-247.24713" /></flowRegion><flowPara
+         id="flowPara4794"></flowPara></flowRoot>  </g>
 </svg>
