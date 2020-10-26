@@ -1,0 +1,15 @@
+Agenda 10/26/20 10/27/20
+
+- Timelog Spreadsheet
+- Check grades https://ps.ksd.org/public/
+- GRIT GOAL - SAVE ION GOOGLE DRIVE
+- EdPuzzle
+- Python : functionDemo.py   dec2hex.py (EdPuzzle)
+- Linux : nano basics.html on RPi  (EdPuzzle)
+
+When your done:
+- Minecraft Education - (Can not be installed  RPi)
+https://education.minecraft.net/  Download and install on a Windows Machine
+Reminders
+_ Continue to work on Edhesive.com
+_ Continue to work on Khanacademy.org
