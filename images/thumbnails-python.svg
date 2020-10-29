@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
      inkscape:cx="-1085.5128"
-     inkscape:cy="162.04675"
+     inkscape:cy="485.29556"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,15 +69,15 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <g
        id="flowRoot1773-5-9-8"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#389adc;fill-opacity:1;stroke:none"
-       transform="matrix(0.18672387,0,0,0.18672387,390.77967,439.94775)"
+       transform="matrix(0.18672387,0,0,0.18672387,375.88877,427.24768)"
        aria-label="security"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png">
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png">
       <path
          id="path3323-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#389adc;fill-opacity:1"
@@ -122,11 +122,11 @@
     <g
        id="flowRoot1773-6"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1eba9c;fill-opacity:1;stroke:none"
-       transform="matrix(0.18672387,0,0,0.18672387,394.54992,386.84336)"
+       transform="matrix(0.18672387,0,0,0.18672387,375.98602,386.66081)"
        aria-label="cyber"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png">
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png">
       <path
          id="path3312"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#1eba9c;fill-opacity:1"
@@ -157,10 +157,10 @@
        xml:space="preserve"
        id="flowRoot778"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#389adc;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-90.236168,-31.284919)"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.821699,-60.150028)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png"><flowRegion
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png"><flowRegion
          id="flowRegion780"
          style="fill:#389adc;fill-opacity:1"><rect
            id="rect782"
@@ -179,7 +179,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-0-9-9-5"
        d="m -196.04007,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
@@ -187,7 +187,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-1-6-3-9"
        d="m -223.59986,316.69238 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
@@ -195,7 +195,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-11-7-0-2"
        d="m -251.15968,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -203,7 +203,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-21-8-9-2"
        d="m -278.71951,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -211,7 +211,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-6-5-1-8"
        d="m -306.27924,316.69238 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52114,-11.52111 11.521122,11.521122 0 0 1 11.52114,-11.52112 11.521122,11.521122 0 0 1 11.52115,11.52112 z"
@@ -219,7 +219,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-5-4-4-9"
        d="m -333.8391,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
@@ -227,7 +227,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-06-2-7-7"
        d="m -361.39889,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -235,7 +235,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-8-6-3"
        d="m -158.47361,316.69238 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
@@ -243,7 +243,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-0-9-9-6"
        d="M 34.445,316.69238 A 11.521122,11.521122 0 0 1 22.9239,328.21349 11.521122,11.521122 0 0 1 11.40279,316.69238 11.521122,11.521122 0 0 1 22.9239,305.17127 11.521122,11.521122 0 0 1 34.445,316.69238 Z"
@@ -251,7 +251,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-1-6-3-1"
        d="m 6.8852196,316.69238 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.52114,11.52111 z"
@@ -259,7 +259,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-11-7-0-29"
        d="m -20.67461,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,11.52111 z"
@@ -267,7 +267,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-21-8-9-3"
        d="m -48.234431,316.69238 a 11.521122,11.521122 0 0 1 -11.521109,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.521109,11.52111 z"
@@ -275,7 +275,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-6-5-1-1"
        d="m -75.79416,316.69238 a 11.521122,11.521122 0 0 1 -11.521145,11.52111 11.521122,11.521122 0 0 1 -11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,-11.52111 11.521122,11.521122 0 0 1 11.521145,11.52111 z"
@@ -283,7 +283,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-5-4-4-94"
        d="m -103.35402,316.69238 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,11.52111 z"
@@ -291,7 +291,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-06-2-7-78"
        d="m -130.91381,316.69238 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.5211,-11.52111 11.521122,11.521122 0 0 1 11.5211,-11.52111 11.521122,11.521122 0 0 1 11.52112,11.52111 z"
@@ -299,7 +299,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot864"
@@ -328,7 +328,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-0-9-9-5-6"
        d="m -196.62365,275.61844 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
@@ -336,7 +336,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-1-6-3-9-7"
        d="m -224.18344,275.61844 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
@@ -344,7 +344,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-11-7-0-2-5"
        d="m -251.74326,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -352,7 +352,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-21-8-9-2-3"
        d="m -279.30309,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -360,7 +360,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-6-5-1-8-5"
        d="m -306.86282,275.61844 a 11.521122,11.521122 0 0 1 -11.52114,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52112 11.521122,11.521122 0 0 1 11.52114,11.52112 z"
@@ -368,7 +368,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-5-4-4-9-6"
        d="m -334.42268,275.61844 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
@@ -376,7 +376,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-06-2-7-7-2"
        d="m -361.98247,275.61844 a 11.521122,11.521122 0 0 1 -11.52112,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52112,11.52112 z"
@@ -384,7 +384,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-8-6-3-9"
        d="m -159.05719,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
@@ -392,7 +392,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-0-9-9-6-1"
        d="M 33.86142,275.61844 A 11.521122,11.521122 0 0 1 22.34033,287.13955 11.521122,11.521122 0 0 1 10.81921,275.61844 11.521122,11.521122 0 0 1 22.34033,264.09733 11.521122,11.521122 0 0 1 33.86142,275.61844 Z"
@@ -400,7 +400,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-1-6-3-1-2"
        d="m 6.3016596,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.5211196,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
@@ -408,7 +408,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-11-7-0-29-7"
        d="m -21.25819,275.61844 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
@@ -416,7 +416,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-21-8-9-3-0"
        d="m -48.818011,275.61844 a 11.521122,11.521122 0 0 1 -11.521099,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.521099,11.52111 z"
@@ -424,7 +424,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-6-5-1-1-9"
        d="m -76.37772,275.61844 a 11.521122,11.521122 0 0 1 -11.52115,11.52111 11.521122,11.521122 0 0 1 -11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,-11.52111 11.521122,11.521122 0 0 1 11.52115,11.52111 z"
@@ -432,7 +432,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-5-4-4-94-3"
        d="m -103.9376,275.61844 a 11.521122,11.521122 0 0 1 -11.52109,11.52111 11.521122,11.521122 0 0 1 -11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52113,-11.52111 11.521122,11.521122 0 0 1 11.52109,11.52111 z"
@@ -440,7 +440,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-06-2-7-78-6"
        d="m -131.49739,275.61844 a 11.521122,11.521122 0 0 1 -11.5211,11.52111 11.521122,11.521122 0 0 1 -11.52112,-11.52111 11.521122,11.521122 0 0 1 11.52112,-11.52111 11.521122,11.521122 0 0 1 11.5211,11.52111 z"
@@ -448,7 +448,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <path
        id="path1784-74-8-6-7-3-0"
        d="m -389.87656,352.04179 a 11.521122,11.521122 0 0 1 -11.52111,11.52111 11.521122,11.521122 0 0 1 -11.52111,-11.52111 11.521122,11.521122 0 0 1 11.52111,-11.52112 11.521122,11.521122 0 0 1 11.52111,11.52112 z"
@@ -456,7 +456,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot864-6"
@@ -464,7 +464,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,-130.93885,229.85894)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png"><flowRegion
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png"><flowRegion
          id="flowRegion866-2"
          style="fill:#7db2a0;fill-opacity:1"><rect
            id="rect868-6"
@@ -477,22 +477,25 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#7db2a0;fill-opacity:1">CWColeman</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5078"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-57.730216,-13.898015)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#053944;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,-79.111778,-50.24667)"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><flowRegion
-         id="flowRegion5080"><rect
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png"><flowRegion
+         id="flowRegion5080"
+         style="fill:#053944;fill-opacity:1;"><rect
            id="rect5082"
            width="1486.9445"
            height="832.36566"
            x="-771.75653"
-           y="-89.663338" /></flowRegion><flowPara
-         id="flowPara5084"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">while loop <flowSpan
-   style="fill:#deaa87"
-   id="flowSpan5096">and</flowSpan></flowPara><flowPara
+           y="-89.663338"
+           style="fill:#053944;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara5086"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">if condition</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#053944;fill-opacity:1;">Decimal </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#053944;fill-opacity:1;"
+         id="flowPara1115">to</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#053944;fill-opacity:1;"
+         id="flowPara1117">Binary</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5088"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -503,5 +506,24 @@
            height="226.27417"
            x="719.22858"
            y="714.41809" /></flowRegion><flowPara
-         id="flowPara5094"></flowPara></flowRoot>  </g>
+         id="flowPara5094" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot778-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9b5ab4;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,44.42847,266.40357)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cwc/www/assignments/images/python-dec2bin.png"><flowRegion
+         id="flowRegion780-6"
+         style="fill:#9b5ab4;fill-opacity:1;"><rect
+           id="rect782-7"
+           width="2817.4563"
+           height="654.28577"
+           x="-1400"
+           y="-468.90887"
+           style="fill:#9b5ab4;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara784-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#9b5ab4;fill-opacity:1;">dec2bin.py</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#9b5ab4;fill-opacity:1;"
+         id="flowPara1024-3" /></flowRoot>  </g>
 </svg>
