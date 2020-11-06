@@ -1,0 +1,192 @@
+Question 1 3 pts
+The functional description of the Transport layer in the OSI model provides ________.
+
+(Refer to Module 2 :Introduction to Networks, topic 3.2.4)
+
+Group of answer choices
+
+protocols used for process to process communication.
+
+provides a data path or route.
+
+Exchanges frames between devices.
+
+segments, transfers, and reassembles data.
+
+bit transmission.
+
+Question 2 3 pts
+Which logical address is responsible for delivering the IP packet from the original source to the final destination, either on the same network or to a remote network.
+
+(Refer to Module 1: Introduction to Networks, topic 3.3.2)
+
+Group of answer choices
+
+Source and Destination IP address
+
+Sournce Destination MAC address
+
+Source and Destination Data link
+
+Source IP address ONLY
+
+Question 3 3 pts
+
+
+Which of following would be considered an end device?  (choose all that apply)
+
+(Refer to Module 1: Introduction to Networks, topic 1.2.1)
+
+Group of answer choices
+
+Desktop Computer
+
+Laptop
+
+Firewall
+
+Printer
+
+Question 4 3 pts
+Specific features of LANs include which of the following?  (choose all that apply)
+
+(Refer to Module 1: Introduction to Networks, topic 1.2.2)
+
+Group of answer choices
+
+LANs interconnect end devices in a limited area such as a home, school, office building, or campus.
+
+LANs provide high speed bandwidth to internal end devices and intermediary devices.
+
+A LAN is usually administered by a single organization or individual.
+
+LANs are usually administered by multiple service providers.
+
+Question 5  3 pts
+Which of the following are the four basic characteristics that the underlying network architecture needs to address in order to meet user expectations.  (choose all that apply)
+
+(Refer to Module 1: Introduction to Networks, topic 1.3.2)
+
+
+Group of answer choices
+
+Security
+
+DNA
+
+Quality of Service (QoS)
+
+Fault Tolerance
+
+Scalability
+
+Question 6  3 pts
+To execute configuration commands, a network administrator must access ____________ EXEC mode.
+
+(Refer to Module 1: Introduction to Networks, topic 2.1.3)
+
+
+
+Group of answer choices
+
+Privileged Exec
+
+Administrator Exec
+
+User Exec
+
+Privileged User
+
+
+Question 63 pts
+To execute configuration commands, a network administrator must access ____________ EXEC mode.
+
+(Refer to Module 1: Introduction to Networks, topic 2.1.3)
+
+
+
+Group of answer choices
+
+Privileged Exec
+
+Administrator Exec
+
+User Exec
+
+Privileged User
+
+Question 7 3 pts
+To access context-sensitive help, simply enter a ___________ at the CLI.
+
+(Refer to Module 1: Introduction to Networks, topic 2.1.4)
+
+Group of answer choices
+
+exclamation mark, !
+
+question mark, ?
+
+forward slash, /
+
+asterisk, *
+
+The running-config file is stored in______________________.
+
+(Refer to Module 1: Introduction to Networks, topic 2.2.3)
+
+Group of answer choices
+
+Flash drive
+
+RAM
+
+USB drive
+
+SD drive
+
+NVRAM
+
+
+Question 8 3 pts
+The running-config file is stored in______________________.
+
+(Refer to Module 1: Introduction to Networks, topic 2.2.3)
+
+Group of answer choices
+
+Flash drive
+
+RAM
+
+USB drive
+
+SD drive
+
+NVRAM
+
+Question 9 3 pts
+True or False: A protocol suite is a set of protocols that work together to provide comprehensive network communication services.
+
+(Refer to Module 1: Introduction to Networks, topic 3.2.2)
+
+Group of answer choices
+
+True
+
+False
+
+
+Question 10 3 pts
+_______ is the process of converting information into another acceptable form, for transmission. _______ reverses this process in order to interpret the information.
+
+(Refer to Module 1: Introduction to Networks, topic 3.1.1)
+
+Group of answer choices
+
+Tagging, Tag Popping
+
+Labeling, Unlabeling
+
+Encoding, Decoding
+
+Coding, Uncoding
