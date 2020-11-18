@@ -180,13 +180,10 @@ body{  padding: 0px 20px 0px 20px ;} // top right bottom left padding
            <br />
 </div>
 
-    <div class="col-sm-9">
-		 <a href = "https://canvas.instructure.com" target = "_blank"> <img src = "img/cyber-canvas.png"> </a>
-<hr />
-<h2>
-All assignments are posted on Canvas
-</h2>	  
-	  
+    <div class="col-sm-9 b02-bg">
+
+<!--iframe   -->
+    		  <iframe src="documents/" name="iframe_a" height = "800px" width="100%" title="Contents" frameBorder="0"></iframe>
 	  </div>
 
     </div>
