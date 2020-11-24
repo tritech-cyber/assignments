@@ -455,20 +455,20 @@
          id="flowPara637"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot686"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#058ccf;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,100.49334,102.6315)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#058ccf;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,26.726952,90.871641)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion688"
-         style="fill:#058ccf;fill-opacity:1;"><rect
+         style="fill:#058ccf;fill-opacity:1"><rect
            id="rect690"
            width="2076.8735"
            height="658.61945"
            x="-1337.4419"
            y="-198.75981"
-           style="fill:#058ccf;fill-opacity:1;" /></flowRegion><flowPara
+           style="fill:#058ccf;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara692"
-         style="font-size:192px;fill:#058ccf;fill-opacity:1;">ffmpeg</flowPara></flowRoot>    <image
+         style="font-size:192px;fill:#058ccf;fill-opacity:1">ffmpeg</flowPara></flowRoot>    <image
        y="-168.58417"
        x="-764.25385"
        id="image702"
@@ -2411,8 +2411,8 @@ JbkvscQSSzwGsST3JZZYYonHIJbkvsQSSyzxGMT/Bxj7gIGb0wuJAAAAAElFTkSuQmCC
        height="131.49791"
        width="132.29167" />
     <image
-       y="-129.95067"
-       x="-0.061745938"
+       y="-147.58405"
+       x="55.672459"
        id="image713"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdgAAAEdCAYAAACv/HaeAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXfYbFd15vlbe+8TKnzxBunqSkISQlkECQlEFkIigxBgY6Kxx6HxM+0e22N7ejwz7pkez4wf
@@ -3877,8 +3877,8 @@ sA/7sA/7sA+XAfYZ7D7swz7swz7sw2WAfQa7D/uwD/uwD/twGWCfwe7DPuzDPuzDPlwG2Gew+7AP
 gg==
 "
        preserveAspectRatio="none"
-       height="196.21207"
-       width="324.95471"
+       height="200.48839"
+       width="319.60934"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
