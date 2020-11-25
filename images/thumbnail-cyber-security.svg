@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="905.54174"
+     inkscape:cx="699.47063"
      inkscape:cy="735.64007"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -3573,12 +3573,16 @@ HhT6IN3fXBzOZXtkXwNDn280zjUOkJxxgjD6/H9yXoeLRjDm0gAAAABJRU5ErkJggg==
 "
        preserveAspectRatio="none"
        height="114.82917"
-       width="260.61459" />
+       width="260.61459"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot958"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#389adc;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,6.4144685,109.04596)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,6.4144685,109.04596)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
          id="flowRegion960"
          style="fill:#389adc;fill-opacity:1;"><rect
            id="rect962"
