@@ -67,7 +67,7 @@
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        inkscape:connector-curvature="0"
-       style="opacity:0.98000004;fill:#f4f2f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.28016245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98000004;fill:#bdc3c3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.28016245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -432.20178,-163.62022 h 800 v 450 h -800 z"
        id="path872"
        inkscape:export-filename="/home/cwc/www/assignments/images/bash-basics.png" />
@@ -6415,6 +6415,8 @@ cQAAAABJRU5ErkJggg==
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="219.51286"
-       width="362.71439" />
+       width="362.71439"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
